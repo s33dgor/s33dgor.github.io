@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Aspiring AI/ML Engineer</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final-year B.Tech student specializing in Artificial Intelligence (AI) and Machine Learning (ML), passionate about leveraging AI technologies to create impactful solutions. My expertise spans across Large Language Models (LLMs), Natural Language Processing (NLP), and deep learning, with experience in implementing end-to-end ML pipelines from data preprocessing to deployment using frameworks like PyTorch.
+I am a final-year B.Tech student specializing in Artificial Intelligence (AI) and Machine Learning (ML), passionate about leveraging AI technologies to create impactful solutions. My interest spans across Large Language Models (LLMs), Natural Language Processing (NLP), and deep learning, with experience in implementing end-to-end ML pipelines from data preprocessing to deployment using frameworks like PyTorch.
 Recently Worked On:
 
 Interpreted models like Logistic Regression, Random Forest, and XGBoost using SHAP on a heart attack dataset, analyzing how each feature contributes to the overall prediction.
