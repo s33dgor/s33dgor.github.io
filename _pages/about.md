@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1368/1, Sector 4D</p>
-    <p>Gandhinagar, Gujarat, 382006</p>
+    <p></p>
+    <p></p>
     <p>siddharthgor3333[at]gmail[dot]com</p>
 
 news: true # includes a list of news items
